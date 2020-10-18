@@ -1,1 +1,1 @@
-web: gunicorn backend.taskscheduler.wsgi
+web: gunicorn taskscheduler.wsgi
